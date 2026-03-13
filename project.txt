@@ -1,2 +1,4 @@
 Added the first feature.
 Added the footer.
+
+This was a mistake.
