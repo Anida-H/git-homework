@@ -1,0 +1,2 @@
+Added the first feature.
+Added the footer.
